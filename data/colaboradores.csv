@@ -1,0 +1,501 @@
+﻿matricula;nome;sexo;data_nascimento;area;cargo;gestor;data_admissao;status
+MAT0001;Ana Julia Freitas;Feminino;1976-03-29;Produção;Analista Pleno;Ricardo Almeida;2024-08-28;Ativo
+MAT0002;Luara Peixoto;Feminino;1982-03-02;Financeiro;Coordenador;Carlos Henrique;2017-04-27;Ativo
+MAT0003;Luna Ribeiro;Feminino;2004-01-27;Produção;Supervisor;Ricardo Almeida;2022-03-18;Ativo
+MAT0004;Juan Nogueira;Feminino;1998-12-20;Logística;Assistente;Ricardo Almeida;2023-11-11;Ativo
+MAT0005;Felipe Marques;Feminino;1999-07-24;Comercial;Assistente;Fernanda Souza;2018-06-08;Ativo
+MAT0006;Agatha Cirino;Masculino;1984-07-26;Logística;Supervisor;Ricardo Almeida;2022-07-15;Ativo
+MAT0007;Dr. Antony Porto;Masculino;1975-11-10;Produção;Supervisor;Ricardo Almeida;2018-03-24;Ativo
+MAT0008;Théo Vasconcelos;Masculino;1982-10-10;Financeiro;Analista Sênior;Carlos Henrique;2019-05-27;Ativo
+MAT0009;Heloísa Siqueira;Masculino;1996-08-26;Produção;Supervisor;Ricardo Almeida;2024-06-02;Ativo
+MAT0010;André Peixoto;Feminino;1993-08-25;Produção;Analista Pleno;Ricardo Almeida;2018-05-16;Ativo
+MAT0011;Heloisa Costa;Masculino;1979-08-22;Produção;Analista Pleno;Ricardo Almeida;2022-02-08;Ativo
+MAT0012;Thomas Nunes;Feminino;1970-11-26;Tecnologia;Coordenador;Juliana Costa;2023-05-04;Ativo
+MAT0013;Marcelo Novaes;Feminino;1980-03-15;Tecnologia;Analista Sênior;Juliana Costa;2018-12-18;Ativo
+MAT0014;Milena Pacheco;Feminino;2001-12-05;Financeiro;Analista Sênior;Carlos Henrique;2019-05-04;Ativo
+MAT0015;Maria Fernanda Martins;Feminino;1983-02-02;Produção;Analista Jr;Ricardo Almeida;2021-10-29;Ativo
+MAT0016;Antony Montenegro;Masculino;2002-11-06;Produção;Assistente;Ricardo Almeida;2025-07-29;Ativo
+MAT0017;Sr. Diego Mendes;Masculino;1966-08-05;Logística;Assistente;Ricardo Almeida;2022-05-26;Ativo
+MAT0018;Eduarda Pereira;Masculino;1985-04-13;Produção;Analista Pleno;Ricardo Almeida;2020-06-22;Ativo
+MAT0019;Sophie Mendonça;Feminino;2005-12-23;Produção;Analista Jr;Ricardo Almeida;2021-10-21;Ativo
+MAT0020;Heloisa Montenegro;Masculino;2007-01-28;Produção;Supervisor;Ricardo Almeida;2022-11-26;Ativo
+MAT0021;Kaique Albuquerque;Masculino;1972-06-19;Tecnologia;Coordenador;Juliana Costa;2018-11-09;Ativo
+MAT0022;Pedro Miguel Souza;Masculino;1997-10-01;Produção;Supervisor;Ricardo Almeida;2025-02-17;Ativo
+MAT0023;Sra. Ana Carolina Pacheco;Feminino;1987-05-14;Tecnologia;Analista Jr;Juliana Costa;2016-07-07;Ativo
+MAT0024;Davi Miguel Pimenta;Feminino;1980-08-23;Tecnologia;Analista Sênior;Juliana Costa;2019-06-05;Ativo
+MAT0025;Anna Liz Aragão;Masculino;1980-02-28;Comercial;Analista Sênior;Fernanda Souza;2026-04-18;Ativo
+MAT0026;Lorena Ferreira;Feminino;1983-06-02;Comercial;Assistente;Fernanda Souza;2018-04-12;Ativo
+MAT0027;Paulo Vasconcelos;Masculino;2004-11-08;Tecnologia;Analista Pleno;Juliana Costa;2023-05-01;Ativo
+MAT0028;Luiz Otávio Dias;Feminino;2001-10-06;Financeiro;Analista Pleno;Carlos Henrique;2025-06-10;Ativo
+MAT0029;Enrico Nascimento;Feminino;1968-12-20;Comercial;Analista Sênior;Fernanda Souza;2016-10-13;Ativo
+MAT0030;Srta. Stella Duarte;Masculino;2001-06-21;Produção;Supervisor;Ricardo Almeida;2021-01-29;Ativo
+MAT0031;Oliver da Rocha;Masculino;1990-12-12;Produção;Assistente;Ricardo Almeida;2019-08-11;Ativo
+MAT0032;Pedro Henrique Cardoso;Feminino;1997-09-28;Logística;Assistente;Ricardo Almeida;2018-07-31;Ativo
+MAT0033;Rebeca Costa;Feminino;1991-10-02;Produção;Supervisor;Ricardo Almeida;2018-03-05;Ativo
+MAT0034;Rodrigo Nascimento;Masculino;1990-11-23;Produção;Analista Jr;Ricardo Almeida;2016-12-12;Ativo
+MAT0035;Isadora Pires;Masculino;1979-04-21;Financeiro;Especialista;Carlos Henrique;2023-10-01;Ativo
+MAT0036;Emanuella Pimenta;Feminino;1984-04-25;Produção;Assistente;Ricardo Almeida;2023-07-10;Ativo
+MAT0037;Asafe Abreu;Masculino;1998-02-06;Produção;Analista Pleno;Ricardo Almeida;2016-07-03;Ativo
+MAT0038;João Gabriel Sales;Feminino;1992-09-30;Comercial;Analista Pleno;Fernanda Souza;2017-07-12;Ativo
+MAT0039;Maria Eduarda Montenegro;Feminino;1967-07-16;Produção;Analista Pleno;Ricardo Almeida;2021-01-01;Ativo
+MAT0040;Eloá Gomes;Masculino;1967-10-18;Produção;Assistente;Ricardo Almeida;2017-04-15;Ativo
+MAT0041;Sr. Ravi Silva;Masculino;1968-01-21;Recursos Humanos;Especialista;Patricia Martins;2025-10-13;Ativo
+MAT0042;Ana Peixoto;Masculino;1966-08-08;Produção;Analista Pleno;Ricardo Almeida;2017-06-25;Ativo
+MAT0043;Ana Laura Ferreira;Masculino;1980-10-08;Qualidade;Analista Pleno;Juliana Costa;2018-02-15;Ativo
+MAT0044;Ana Cecília da Mota;Feminino;2002-05-31;Comercial;Analista Sênior;Fernanda Souza;2020-05-30;Ativo
+MAT0045;Anthony Alves;Masculino;1972-02-27;Logística;Supervisor;Ricardo Almeida;2018-08-04;Ativo
+MAT0046;Maria Luísa Vargas;Feminino;1980-01-13;Tecnologia;Analista Pleno;Juliana Costa;2025-01-05;Ativo
+MAT0047;Gabriel Nogueira;Feminino;1977-03-10;Produção;Analista Pleno;Ricardo Almeida;2024-10-13;Ativo
+MAT0048;Lorena Jesus;Feminino;1984-07-04;Tecnologia;Coordenador;Juliana Costa;2025-02-02;Ativo
+MAT0049;Isabel Oliveira;Masculino;1988-11-21;Logística;Analista Pleno;Ricardo Almeida;2023-01-19;Ativo
+MAT0050;Jade da Paz;Masculino;2005-06-11;Tecnologia;Especialista;Juliana Costa;2024-10-27;Ativo
+MAT0051;Mirella Albuquerque;Masculino;2002-08-16;Tecnologia;Especialista;Juliana Costa;2022-02-23;Ativo
+MAT0052;Mariane Camargo;Masculino;1981-01-07;Tecnologia;Analista Pleno;Juliana Costa;2018-09-07;Ativo
+MAT0053;Juan Pires;Feminino;1993-02-20;Logística;Analista Pleno;Ricardo Almeida;2024-05-03;Ativo
+MAT0054;Davi Miguel Sales;Feminino;2008-03-11;Logística;Analista Pleno;Ricardo Almeida;2026-01-21;Ativo
+MAT0055;Catarina Mendonça;Feminino;1990-01-31;Produção;Assistente;Ricardo Almeida;2021-06-11;Ativo
+MAT0056;Rael Farias;Feminino;1993-10-04;Qualidade;Analista Jr;Juliana Costa;2022-04-12;Ativo
+MAT0057;Sra. Maria Clara Peixoto;Feminino;1997-10-18;Produção;Supervisor;Ricardo Almeida;2018-09-18;Ativo
+MAT0058;Sra. Clarice Moreira;Masculino;1982-04-15;Recursos Humanos;Especialista;Patricia Martins;2018-11-17;Ativo
+MAT0059;Dra. Manuella Monteiro;Feminino;2007-09-14;Comercial;Analista Jr;Fernanda Souza;2020-06-21;Ativo
+MAT0060;Dr. Isaac Fonseca;Masculino;1980-11-04;Logística;Analista Pleno;Ricardo Almeida;2018-07-15;Ativo
+MAT0061;Ana Cecília Silveira;Masculino;1994-03-07;Tecnologia;Analista Jr;Juliana Costa;2016-09-16;Ativo
+MAT0062;Theo Nunes;Feminino;1987-06-13;Comercial;Assistente;Fernanda Souza;2018-03-29;Ativo
+MAT0063;Fernanda Marques;Feminino;2003-12-12;Qualidade;Analista Jr;Juliana Costa;2018-12-08;Ativo
+MAT0064;Isabelly Dias;Feminino;1997-01-12;Produção;Assistente;Ricardo Almeida;2016-10-28;Ativo
+MAT0065;Sr. Alexandre Vieira;Feminino;1967-01-30;Produção;Analista Jr;Ricardo Almeida;2016-06-07;Ativo
+MAT0066;Maria Luísa Brito;Masculino;1968-12-12;Tecnologia;Analista Pleno;Juliana Costa;2016-11-08;Ativo
+MAT0067;Pietra Azevedo;Masculino;1993-02-20;Tecnologia;Analista Pleno;Juliana Costa;2026-04-19;Ativo
+MAT0068;Srta. Manuella Sá;Feminino;1979-04-15;Qualidade;Analista Jr;Juliana Costa;2023-10-21;Ativo
+MAT0069;Alícia da Mota;Feminino;2000-04-13;Produção;Assistente;Ricardo Almeida;2021-12-01;Ativo
+MAT0070;Maria Luísa Macedo;Masculino;2000-02-28;Recursos Humanos;Analista Sênior;Patricia Martins;2025-09-06;Ativo
+MAT0071;Dr. Léo Monteiro;Feminino;2006-12-07;Produção;Analista Jr;Ricardo Almeida;2017-05-11;Ativo
+MAT0072;Yago das Neves;Masculino;1996-03-16;Produção;Analista Jr;Ricardo Almeida;2018-03-16;Ativo
+MAT0073;Sr. Nicolas Vasconcelos;Masculino;1990-05-01;Comercial;Coordenador;Fernanda Souza;2021-02-22;Ativo
+MAT0074;Valentim Novais;Feminino;1998-01-23;Logística;Assistente;Ricardo Almeida;2016-07-15;Ativo
+MAT0075;Maria Júlia da Rocha;Masculino;1977-03-28;Recursos Humanos;Assistente;Patricia Martins;2023-02-16;Ativo
+MAT0076;Pedro Cardoso;Masculino;1982-02-03;Produção;Assistente;Ricardo Almeida;2022-09-19;Ativo
+MAT0077;Stephany Carvalho;Feminino;1980-05-19;Recursos Humanos;Analista Sênior;Patricia Martins;2017-08-11;Ativo
+MAT0078;Sr. Matteo Ferreira;Masculino;1966-06-23;Produção;Supervisor;Ricardo Almeida;2022-06-25;Ativo
+MAT0079;Renan Almeida;Feminino;1981-03-16;Produção;Analista Pleno;Ricardo Almeida;2026-01-26;Ativo
+MAT0080;Maria Luiza Fernandes;Feminino;2002-03-10;Produção;Supervisor;Ricardo Almeida;2024-08-08;Ativo
+MAT0081;Sra. Luana Melo;Masculino;2006-11-21;Produção;Analista Pleno;Ricardo Almeida;2019-02-27;Ativo
+MAT0082;Jade Moreira;Feminino;1999-07-22;Comercial;Analista Pleno;Fernanda Souza;2017-11-09;Ativo
+MAT0083;Gabriel Campos;Feminino;2003-07-08;Produção;Analista Jr;Ricardo Almeida;2016-09-21;Ativo
+MAT0084;Clara Montenegro;Masculino;1991-09-19;Logística;Analista Pleno;Ricardo Almeida;2026-02-28;Ativo
+MAT0085;Heitor Vasconcelos;Masculino;1974-12-15;Produção;Assistente;Ricardo Almeida;2021-01-29;Ativo
+MAT0086;Leonardo Albuquerque;Masculino;2005-05-14;Produção;Analista Jr;Ricardo Almeida;2021-06-27;Ativo
+MAT0087;Lavínia das Neves;Masculino;1997-05-04;Produção;Assistente;Ricardo Almeida;2019-11-09;Ativo
+MAT0088;Vitor Hugo das Neves;Feminino;1994-04-14;Qualidade;Analista Jr;Juliana Costa;2019-07-12;Ativo
+MAT0089;Nathan Cavalcanti;Masculino;1969-06-28;Comercial;Coordenador;Fernanda Souza;2018-11-01;Ativo
+MAT0090;Sr. Mathias Gomes;Feminino;1983-09-07;Produção;Assistente;Ricardo Almeida;2023-08-12;Ativo
+MAT0091;Dr. Eduardo Marques;Masculino;2003-10-19;Tecnologia;Especialista;Juliana Costa;2018-01-14;Ativo
+MAT0092;Samuel Siqueira;Feminino;1994-06-21;Produção;Assistente;Ricardo Almeida;2023-05-21;Ativo
+MAT0093;Luiz Henrique Aragão;Masculino;1975-05-29;Produção;Analista Pleno;Ricardo Almeida;2024-12-21;Ativo
+MAT0094;Diogo Montenegro;Masculino;1967-12-16;Produção;Assistente;Ricardo Almeida;2022-01-22;Ativo
+MAT0095;Maya Jesus;Feminino;1980-01-11;Tecnologia;Coordenador;Juliana Costa;2018-01-14;Ativo
+MAT0096;Clara Monteiro;Masculino;1973-11-25;Produção;Analista Pleno;Ricardo Almeida;2018-02-15;Ativo
+MAT0097;Aylla Siqueira;Masculino;1994-04-28;Produção;Analista Pleno;Ricardo Almeida;2024-12-28;Ativo
+MAT0098;Nathan Moura;Feminino;1992-06-06;Produção;Supervisor;Ricardo Almeida;2025-03-17;Ativo
+MAT0099;Valentim Freitas;Feminino;1966-08-20;Qualidade;Analista Pleno;Juliana Costa;2018-06-10;Ativo
+MAT0100;Gabriel Porto;Masculino;1965-10-30;Logística;Assistente;Ricardo Almeida;2019-02-21;Ativo
+MAT0101;Levi Rezende;Masculino;1994-01-31;Tecnologia;Analista Jr;Juliana Costa;2019-01-31;Ativo
+MAT0102;Maria Vitória Moraes;Masculino;1999-12-08;Produção;Assistente;Ricardo Almeida;2026-03-14;Ativo
+MAT0103;Sra. Catarina Câmara;Feminino;1991-11-26;Financeiro;Especialista;Carlos Henrique;2020-12-02;Ativo
+MAT0104;Cauê Machado;Masculino;1978-08-24;Produção;Analista Pleno;Ricardo Almeida;2017-01-23;Ativo
+MAT0105;Srta. Nicole da Costa;Feminino;1992-12-07;Recursos Humanos;Especialista;Patricia Martins;2016-10-16;Ativo
+MAT0106;Theodoro Siqueira;Feminino;1991-06-13;Logística;Analista Pleno;Ricardo Almeida;2017-08-24;Ativo
+MAT0107;Théo Barros;Masculino;1994-05-15;Tecnologia;Analista Sênior;Juliana Costa;2017-01-01;Ativo
+MAT0108;Dra. Ana Vitória Farias;Feminino;2002-09-07;Produção;Assistente;Ricardo Almeida;2024-02-25;Ativo
+MAT0109;Isabel Gomes;Masculino;1965-12-01;Logística;Assistente;Ricardo Almeida;2023-05-02;Ativo
+MAT0110;Luiza Nunes;Feminino;1967-04-23;Financeiro;Assistente;Carlos Henrique;2016-07-08;Ativo
+MAT0111;Srta. Ana Luiza da Mata;Masculino;2001-07-04;Logística;Analista Jr;Ricardo Almeida;2017-03-28;Ativo
+MAT0112;Marina Azevedo;Masculino;1979-12-14;Comercial;Analista Pleno;Fernanda Souza;2017-01-12;Ativo
+MAT0113;Diogo Silva;Masculino;1992-11-21;Produção;Analista Jr;Ricardo Almeida;2025-11-14;Ativo
+MAT0114;Maria Pinto;Feminino;1985-11-20;Produção;Analista Jr;Ricardo Almeida;2018-03-14;Ativo
+MAT0115;Isaac Costela;Feminino;2001-01-23;Logística;Analista Pleno;Ricardo Almeida;2024-05-07;Ativo
+MAT0116;Guilherme Pinto;Feminino;1984-12-08;Logística;Assistente;Ricardo Almeida;2025-01-18;Ativo
+MAT0117;Cauã Campos;Feminino;1997-01-05;Comercial;Analista Sênior;Fernanda Souza;2021-01-16;Ativo
+MAT0118;Anthony Gabriel Marques;Masculino;1969-05-07;Produção;Analista Jr;Ricardo Almeida;2025-07-01;Ativo
+MAT0119;Sofia Almeida;Masculino;1982-09-15;Produção;Analista Pleno;Ricardo Almeida;2016-10-02;Ativo
+MAT0120;Dra. Maria Julia da Rocha;Masculino;1982-07-27;Logística;Assistente;Ricardo Almeida;2021-02-14;Ativo
+MAT0121;João Guilherme da Cruz;Masculino;1990-11-05;Produção;Supervisor;Ricardo Almeida;2019-09-03;Ativo
+MAT0122;Leandro Farias;Masculino;1971-11-19;Produção;Assistente;Ricardo Almeida;2021-06-04;Ativo
+MAT0123;João Lucas Duarte;Masculino;1967-08-13;Produção;Analista Jr;Ricardo Almeida;2018-02-28;Ativo
+MAT0124;Luiz Fernando da Mata;Masculino;1984-07-18;Comercial;Analista Pleno;Fernanda Souza;2025-08-02;Ativo
+MAT0125;Lavínia Guerra;Feminino;1970-07-26;Recursos Humanos;Analista Pleno;Patricia Martins;2020-09-08;Ativo
+MAT0126;Apollo Castro;Feminino;1969-02-15;Tecnologia;Coordenador;Juliana Costa;2018-07-26;Ativo
+MAT0127;Isabella Nogueira;Feminino;1982-04-24;Logística;Supervisor;Ricardo Almeida;2019-01-09;Ativo
+MAT0128;Caio Pinto;Feminino;1992-09-26;Produção;Assistente;Ricardo Almeida;2019-05-28;Ativo
+MAT0129;Dra. Bruna Marques;Feminino;1972-08-29;Logística;Assistente;Ricardo Almeida;2022-01-21;Ativo
+MAT0130;Cecília da Paz;Masculino;1995-08-27;Produção;Analista Pleno;Ricardo Almeida;2022-07-05;Ativo
+MAT0131;Dante Carvalho;Feminino;1966-02-17;Produção;Assistente;Ricardo Almeida;2026-03-19;Ativo
+MAT0132;Leonardo Aparecida;Masculino;1980-08-10;Produção;Analista Pleno;Ricardo Almeida;2025-01-31;Ativo
+MAT0133;Raquel Leão;Feminino;1968-01-30;Produção;Supervisor;Ricardo Almeida;2020-09-08;Ativo
+MAT0134;Ravi Caldeira;Feminino;2004-12-03;Logística;Analista Pleno;Ricardo Almeida;2020-03-25;Ativo
+MAT0135;Ana Lívia Novais;Feminino;1969-06-20;Logística;Supervisor;Ricardo Almeida;2023-10-25;Ativo
+MAT0136;Sra. Stella das Neves;Feminino;1995-07-21;Tecnologia;Coordenador;Juliana Costa;2022-02-10;Ativo
+MAT0137;Liam Câmara;Masculino;1992-02-28;Produção;Assistente;Ricardo Almeida;2017-01-17;Ativo
+MAT0138;Agatha Silveira;Masculino;1979-03-27;Logística;Analista Pleno;Ricardo Almeida;2024-02-03;Ativo
+MAT0139;Antony Jesus;Masculino;1971-10-02;Produção;Assistente;Ricardo Almeida;2025-12-19;Ativo
+MAT0140;Enrico Vasconcelos;Masculino;1992-07-07;Produção;Assistente;Ricardo Almeida;2021-03-20;Ativo
+MAT0141;Melissa Novais;Masculino;1992-08-17;Qualidade;Analista Pleno;Juliana Costa;2025-10-12;Ativo
+MAT0142;Stephany Azevedo;Masculino;2004-08-05;Qualidade;Supervisor;Juliana Costa;2021-07-24;Ativo
+MAT0143;Kevin Freitas;Masculino;1991-06-02;Produção;Assistente;Ricardo Almeida;2022-09-29;Ativo
+MAT0144;Hellena Rocha;Masculino;1965-09-25;Produção;Analista Pleno;Ricardo Almeida;2017-05-30;Ativo
+MAT0145;Nicolas Campos;Feminino;1991-07-09;Recursos Humanos;Especialista;Patricia Martins;2020-09-06;Ativo
+MAT0146;Helena da Rocha;Masculino;2000-04-23;Logística;Analista Jr;Ricardo Almeida;2025-03-24;Ativo
+MAT0147;Ana Câmara;Feminino;1988-12-01;Financeiro;Analista Jr;Carlos Henrique;2017-01-25;Ativo
+MAT0148;Dra. Lívia Barbosa;Masculino;1990-04-05;Produção;Supervisor;Ricardo Almeida;2025-03-15;Ativo
+MAT0149;Maria Luiza Casa Grande;Masculino;1978-06-03;Produção;Supervisor;Ricardo Almeida;2021-12-24;Ativo
+MAT0150;Mariah da Rocha;Masculino;1971-04-21;Qualidade;Analista Jr;Juliana Costa;2016-10-23;Ativo
+MAT0151;Sr. Danilo Costa;Masculino;1980-12-19;Tecnologia;Especialista;Juliana Costa;2025-07-22;Ativo
+MAT0152;Vitor Rezende;Masculino;1969-08-04;Produção;Analista Jr;Ricardo Almeida;2020-10-02;Ativo
+MAT0153;Valentina Machado;Feminino;1981-01-31;Logística;Analista Pleno;Ricardo Almeida;2022-10-21;Ativo
+MAT0154;Nicolas Barros;Feminino;1996-06-08;Logística;Analista Pleno;Ricardo Almeida;2020-07-28;Ativo
+MAT0155;Sabrina Marques;Feminino;1980-06-27;Produção;Assistente;Ricardo Almeida;2018-01-18;Ativo
+MAT0156;Laís Gomes;Feminino;1989-06-03;Comercial;Analista Sênior;Fernanda Souza;2019-03-29;Ativo
+MAT0157;Oliver Almeida;Masculino;1976-11-25;Comercial;Analista Pleno;Fernanda Souza;2019-02-04;Ativo
+MAT0158;Luiz Otávio Farias;Masculino;2000-08-10;Produção;Analista Pleno;Ricardo Almeida;2024-08-12;Ativo
+MAT0159;Igor Rezende;Masculino;1974-01-10;Qualidade;Analista Jr;Juliana Costa;2021-06-23;Ativo
+MAT0160;Dr. Gael Henrique Rodrigues;Masculino;1990-12-11;Logística;Assistente;Ricardo Almeida;2024-11-06;Ativo
+MAT0161;Apollo Pimenta;Feminino;1969-06-06;Comercial;Analista Pleno;Fernanda Souza;2018-08-24;Ativo
+MAT0162;Maria Laura Pereira;Masculino;1990-02-19;Logística;Assistente;Ricardo Almeida;2022-12-07;Ativo
+MAT0163;Luan Aparecida;Masculino;1992-06-05;Logística;Analista Pleno;Ricardo Almeida;2019-02-18;Ativo
+MAT0164;Augusto Casa Grande;Feminino;1970-11-08;Produção;Analista Pleno;Ricardo Almeida;2023-07-12;Ativo
+MAT0165;Mathias Sampaio;Feminino;2006-07-25;Produção;Supervisor;Ricardo Almeida;2023-08-01;Ativo
+MAT0166;Benicio Lopes;Masculino;1968-02-16;Produção;Assistente;Ricardo Almeida;2022-03-12;Ativo
+MAT0167;Vinícius Castro;Feminino;1991-05-20;Logística;Assistente;Ricardo Almeida;2023-08-23;Ativo
+MAT0168;Maria Luiza Correia;Masculino;1999-03-14;Produção;Analista Jr;Ricardo Almeida;2021-01-31;Ativo
+MAT0169;Mariana Siqueira;Masculino;1989-08-25;Logística;Supervisor;Ricardo Almeida;2017-05-13;Ativo
+MAT0170;Sr. Francisco Rios;Masculino;1996-06-02;Recursos Humanos;Analista Pleno;Patricia Martins;2017-10-08;Ativo
+MAT0171;Hellena Sampaio;Masculino;2007-12-14;Produção;Analista Jr;Ricardo Almeida;2024-09-10;Ativo
+MAT0172;Josué da Mata;Masculino;1995-12-27;Financeiro;Analista Pleno;Carlos Henrique;2018-01-20;Ativo
+MAT0173;Luísa Sampaio;Feminino;1997-02-11;Logística;Supervisor;Ricardo Almeida;2022-02-12;Ativo
+MAT0174;Maria Liz Siqueira;Feminino;1987-01-23;Logística;Supervisor;Ricardo Almeida;2017-09-03;Ativo
+MAT0175;Henry Gabriel da Mota;Feminino;2000-06-07;Produção;Supervisor;Ricardo Almeida;2020-06-20;Ativo
+MAT0176;Cecilia Peixoto;Masculino;1990-02-17;Tecnologia;Analista Sênior;Juliana Costa;2022-08-06;Ativo
+MAT0177;Enrico Montenegro;Masculino;1973-07-19;Tecnologia;Analista Pleno;Juliana Costa;2018-11-04;Ativo
+MAT0178;Sr. Davi Fogaça;Feminino;1990-05-23;Recursos Humanos;Especialista;Patricia Martins;2023-03-08;Ativo
+MAT0179;Carlos Eduardo Garcia;Feminino;1996-05-22;Tecnologia;Coordenador;Juliana Costa;2023-10-08;Ativo
+MAT0180;Ravi Lucca Guerra;Masculino;1990-06-06;Comercial;Assistente;Fernanda Souza;2019-10-07;Ativo
+MAT0181;Ana Liz Sales;Masculino;2001-05-20;Recursos Humanos;Analista Sênior;Patricia Martins;2023-09-20;Ativo
+MAT0182;Dra. Elisa Silveira;Feminino;1965-06-12;Logística;Supervisor;Ricardo Almeida;2017-01-08;Ativo
+MAT0183;Benicio Camargo;Feminino;1973-09-11;Produção;Analista Jr;Ricardo Almeida;2018-10-10;Ativo
+MAT0184;Juliana Ramos;Feminino;1989-01-31;Tecnologia;Analista Pleno;Juliana Costa;2018-06-19;Ativo
+MAT0185;Sr. Gael Sá;Masculino;2006-01-28;Produção;Analista Jr;Ricardo Almeida;2022-03-15;Ativo
+MAT0186;Luísa Pinto;Feminino;1988-05-17;Logística;Supervisor;Ricardo Almeida;2019-10-24;Ativo
+MAT0187;Ágatha Machado;Masculino;1988-06-25;Produção;Supervisor;Ricardo Almeida;2018-06-15;Ativo
+MAT0188;Daniela Peixoto;Feminino;1988-01-31;Qualidade;Supervisor;Juliana Costa;2017-07-16;Ativo
+MAT0189;Antony Cassiano;Masculino;2003-03-20;Comercial;Analista Pleno;Fernanda Souza;2023-07-30;Ativo
+MAT0190;Dr. Davi Lucas Brito;Masculino;1967-08-13;Comercial;Analista Pleno;Fernanda Souza;2020-06-03;Ativo
+MAT0191;Gabriel da Cruz;Masculino;1971-05-23;Financeiro;Especialista;Carlos Henrique;2018-09-01;Ativo
+MAT0192;Paulo Rodrigues;Feminino;1971-04-24;Produção;Supervisor;Ricardo Almeida;2024-07-23;Ativo
+MAT0193;Evelyn da Paz;Masculino;1990-06-05;Qualidade;Supervisor;Juliana Costa;2019-02-16;Ativo
+MAT0194;João Miguel Gomes;Feminino;1990-01-31;Comercial;Analista Pleno;Fernanda Souza;2020-10-18;Ativo
+MAT0195;Stephany Sales;Feminino;1990-08-26;Financeiro;Analista Jr;Carlos Henrique;2022-09-24;Ativo
+MAT0196;Valentina Aragão;Masculino;2003-06-14;Qualidade;Analista Pleno;Juliana Costa;2018-03-27;Ativo
+MAT0197;Lorena Vieira;Feminino;1985-06-26;Produção;Supervisor;Ricardo Almeida;2024-01-21;Ativo
+MAT0198;Yasmin Santos;Feminino;1966-10-31;Comercial;Assistente;Fernanda Souza;2023-11-21;Ativo
+MAT0199;Dr. Otávio das Neves;Feminino;1976-04-01;Logística;Analista Pleno;Ricardo Almeida;2020-02-04;Ativo
+MAT0200;Maria Júlia Sá;Masculino;1986-07-05;Produção;Analista Pleno;Ricardo Almeida;2016-07-19;Ativo
+MAT0201;Agatha Nascimento;Masculino;1977-06-13;Comercial;Analista Sênior;Fernanda Souza;2023-03-23;Ativo
+MAT0202;Lorenzo Pereira;Feminino;1992-05-24;Qualidade;Supervisor;Juliana Costa;2021-02-13;Ativo
+MAT0203;Otto Cavalcante;Feminino;2007-07-22;Qualidade;Analista Jr;Juliana Costa;2016-09-03;Ativo
+MAT0204;Thales Almeida;Masculino;1994-04-16;Logística;Analista Pleno;Ricardo Almeida;2017-10-13;Ativo
+MAT0205;Luna Souza;Masculino;1999-06-30;Tecnologia;Especialista;Juliana Costa;2017-04-05;Ativo
+MAT0206;Dra. Maria Laura Costela;Feminino;1972-10-09;Financeiro;Assistente;Carlos Henrique;2025-12-18;Ativo
+MAT0207;Sr. Lucas Gabriel da Cunha;Feminino;1991-12-11;Logística;Analista Pleno;Ricardo Almeida;2017-11-04;Ativo
+MAT0208;Ravi Lucca da Conceição;Masculino;1970-04-08;Recursos Humanos;Assistente;Patricia Martins;2017-11-15;Ativo
+MAT0209;Sr. Luiz Henrique da Costa;Masculino;2000-04-02;Comercial;Analista Jr;Fernanda Souza;2018-04-02;Ativo
+MAT0210;Stephany Borges;Masculino;1980-11-15;Financeiro;Coordenador;Carlos Henrique;2017-03-02;Ativo
+MAT0211;Ana Carolina Pinto;Masculino;1985-08-18;Logística;Analista Jr;Ricardo Almeida;2021-07-19;Ativo
+MAT0212;Milena Lopes;Feminino;1980-04-15;Logística;Analista Jr;Ricardo Almeida;2024-12-30;Ativo
+MAT0213;Emanuelly Dias;Feminino;1997-04-29;Qualidade;Analista Pleno;Juliana Costa;2026-02-11;Ativo
+MAT0214;Srta. Isabel Dias;Feminino;1981-03-03;Produção;Supervisor;Ricardo Almeida;2024-12-17;Ativo
+MAT0215;Sophie Machado;Masculino;2003-08-20;Produção;Analista Jr;Ricardo Almeida;2024-01-02;Ativo
+MAT0216;João Miguel Fonseca;Masculino;1979-09-10;Financeiro;Analista Pleno;Carlos Henrique;2017-07-28;Ativo
+MAT0217;Emanuella da Luz;Masculino;1980-03-15;Produção;Supervisor;Ricardo Almeida;2018-09-23;Ativo
+MAT0218;Sra. Luara Santos;Feminino;1985-12-02;Tecnologia;Especialista;Juliana Costa;2021-07-18;Ativo
+MAT0219;Ana Júlia Casa Grande;Masculino;1994-03-06;Financeiro;Assistente;Carlos Henrique;2020-08-18;Ativo
+MAT0220;Matheus Vasconcelos;Masculino;1971-08-03;Comercial;Analista Pleno;Fernanda Souza;2025-06-01;Ativo
+MAT0221;Srta. Ana Laura Casa Grande;Masculino;1975-03-27;Tecnologia;Analista Pleno;Juliana Costa;2025-03-10;Ativo
+MAT0222;Arthur Gabriel Gonçalves;Feminino;2002-03-11;Logística;Analista Jr;Ricardo Almeida;2024-01-26;Ativo
+MAT0223;Anthony Pastor;Feminino;2007-02-21;Produção;Assistente;Ricardo Almeida;2024-10-21;Ativo
+MAT0224;Liam Guerra;Masculino;2002-06-25;Produção;Assistente;Ricardo Almeida;2024-03-25;Ativo
+MAT0225;Sra. Sofia Moraes;Feminino;1975-02-17;Produção;Supervisor;Ricardo Almeida;2020-12-13;Ativo
+MAT0226;Ana Carolina Moraes;Masculino;1970-08-29;Comercial;Coordenador;Fernanda Souza;2025-02-13;Ativo
+MAT0227;Lavínia Moreira;Feminino;1977-11-12;Recursos Humanos;Especialista;Patricia Martins;2020-12-14;Ativo
+MAT0228;Léo Carvalho;Feminino;1987-03-12;Comercial;Assistente;Fernanda Souza;2017-09-07;Ativo
+MAT0229;Alícia Costa;Feminino;1987-04-06;Produção;Supervisor;Ricardo Almeida;2025-07-23;Ativo
+MAT0230;Mariah Araújo;Feminino;1990-08-18;Financeiro;Assistente;Carlos Henrique;2021-11-05;Ativo
+MAT0231;Dr. Arthur Pereira;Masculino;1994-12-22;Produção;Assistente;Ricardo Almeida;2025-07-20;Ativo
+MAT0232;Nicolas Barbosa;Feminino;2005-07-12;Recursos Humanos;Analista Jr;Patricia Martins;2020-12-12;Ativo
+MAT0233;Luiz Fernando Cavalcanti;Feminino;2000-01-03;Produção;Supervisor;Ricardo Almeida;2022-11-10;Ativo
+MAT0234;Vitor Gabriel Nunes;Masculino;1980-12-08;Comercial;Analista Sênior;Fernanda Souza;2020-11-20;Ativo
+MAT0235;Sr. Bruno Pires;Feminino;1977-03-25;Produção;Supervisor;Ricardo Almeida;2021-05-08;Ativo
+MAT0236;Heitor Vasconcelos;Masculino;1996-07-18;Produção;Analista Pleno;Ricardo Almeida;2018-09-30;Ativo
+MAT0237;Cauê da Cunha;Masculino;2008-03-11;Logística;Supervisor;Ricardo Almeida;2018-12-07;Ativo
+MAT0238;Dr. Calebe Alves;Feminino;1983-07-22;Produção;Assistente;Ricardo Almeida;2025-12-21;Ativo
+MAT0239;Mirella Pires;Masculino;1977-08-29;Logística;Analista Jr;Ricardo Almeida;2018-03-08;Ativo
+MAT0240;Srta. Gabrielly Montenegro;Masculino;1992-08-30;Produção;Analista Pleno;Ricardo Almeida;2024-02-25;Ativo
+MAT0241;Rafael Sampaio;Feminino;1993-02-22;Produção;Analista Jr;Ricardo Almeida;2016-07-07;Ativo
+MAT0242;Luan Abreu;Masculino;1991-04-13;Recursos Humanos;Assistente;Patricia Martins;2026-03-05;Ativo
+MAT0243;Luísa da Rocha;Feminino;1970-03-10;Financeiro;Analista Sênior;Carlos Henrique;2018-05-03;Ativo
+MAT0244;Samuel Novaes;Masculino;1986-10-14;Tecnologia;Analista Jr;Juliana Costa;2022-08-12;Ativo
+MAT0245;Bruna Freitas;Masculino;2008-03-08;Comercial;Coordenador;Fernanda Souza;2016-11-23;Ativo
+MAT0246;Julia Cardoso;Feminino;1992-08-30;Recursos Humanos;Analista Sênior;Patricia Martins;2025-11-15;Ativo
+MAT0247;Rebeca Pires;Masculino;1966-10-14;Tecnologia;Analista Pleno;Juliana Costa;2024-10-23;Ativo
+MAT0248;Arthur Gabriel Cardoso;Masculino;1989-10-07;Qualidade;Analista Jr;Juliana Costa;2021-01-28;Ativo
+MAT0249;Bruna Costela;Masculino;2005-11-07;Produção;Supervisor;Ricardo Almeida;2018-09-20;Ativo
+MAT0250;Ana Beatriz Pacheco;Masculino;1969-08-20;Financeiro;Assistente;Carlos Henrique;2019-03-08;Ativo
+MAT0251;Helena Campos;Masculino;2001-12-11;Produção;Analista Pleno;Ricardo Almeida;2017-08-28;Ativo
+MAT0252;Gael Dias;Masculino;1972-06-01;Logística;Assistente;Ricardo Almeida;2019-02-24;Ativo
+MAT0253;Olivia Silveira;Masculino;1999-06-01;Recursos Humanos;Analista Pleno;Patricia Martins;2026-02-08;Ativo
+MAT0254;Dra. Evelyn Andrade;Feminino;1982-10-31;Financeiro;Coordenador;Carlos Henrique;2021-12-16;Ativo
+MAT0255;Melissa Pereira;Feminino;1979-05-12;Financeiro;Coordenador;Carlos Henrique;2018-06-15;Ativo
+MAT0256;Sr. Luiz Otávio Pimenta;Masculino;1991-11-23;Financeiro;Analista Pleno;Carlos Henrique;2025-01-30;Ativo
+MAT0257;Sr. Pedro Henrique Azevedo;Masculino;2005-03-01;Qualidade;Supervisor;Juliana Costa;2023-07-03;Ativo
+MAT0258;Laura Sampaio;Masculino;1997-12-11;Recursos Humanos;Analista Jr;Patricia Martins;2017-02-14;Ativo
+MAT0259;Henrique da Mota;Masculino;1981-03-05;Recursos Humanos;Analista Pleno;Patricia Martins;2020-12-28;Ativo
+MAT0260;Bryan Mendonça;Feminino;2002-09-09;Logística;Analista Pleno;Ricardo Almeida;2026-05-16;Ativo
+MAT0261;Renan da Mota;Masculino;2000-05-22;Produção;Assistente;Ricardo Almeida;2022-06-24;Ativo
+MAT0262;Sr. Vitor Gabriel Porto;Feminino;1984-06-10;Qualidade;Analista Jr;Juliana Costa;2024-10-30;Ativo
+MAT0263;Dante Gomes;Feminino;1987-04-23;Tecnologia;Analista Jr;Juliana Costa;2022-11-23;Ativo
+MAT0264;Davi Luiz da Costa;Masculino;1973-09-30;Comercial;Analista Sênior;Fernanda Souza;2017-03-06;Ativo
+MAT0265;Dra. Heloísa Machado;Feminino;1974-07-12;Recursos Humanos;Analista Jr;Patricia Martins;2025-07-11;Ativo
+MAT0266;Sra. Lorena Cavalcante;Feminino;1993-10-25;Produção;Supervisor;Ricardo Almeida;2021-08-12;Ativo
+MAT0267;Rael Cassiano;Feminino;1979-06-04;Tecnologia;Analista Jr;Juliana Costa;2016-11-12;Ativo
+MAT0268;Antônio Melo;Feminino;1975-05-28;Produção;Supervisor;Ricardo Almeida;2023-08-04;Ativo
+MAT0269;Cecilia Cassiano;Feminino;1981-12-12;Comercial;Coordenador;Fernanda Souza;2023-06-05;Ativo
+MAT0270;Vicente Mendonça;Masculino;1997-11-24;Produção;Analista Jr;Ricardo Almeida;2017-01-21;Ativo
+MAT0271;Benjamim Sampaio;Feminino;1983-10-15;Produção;Supervisor;Ricardo Almeida;2022-07-22;Ativo
+MAT0272;Vitória Leão;Feminino;1992-08-20;Logística;Assistente;Ricardo Almeida;2022-11-12;Ativo
+MAT0273;Clara Novaes;Masculino;1997-04-16;Comercial;Analista Sênior;Fernanda Souza;2024-07-30;Ativo
+MAT0274;Cauã da Conceição;Masculino;1996-04-23;Financeiro;Analista Pleno;Carlos Henrique;2023-08-14;Ativo
+MAT0275;Hellena Cavalcanti;Feminino;1975-09-18;Logística;Analista Jr;Ricardo Almeida;2025-10-14;Ativo
+MAT0276;Gael Aparecida;Masculino;1971-05-24;Produção;Analista Pleno;Ricardo Almeida;2023-10-23;Ativo
+MAT0277;Leonardo Nascimento;Masculino;1969-11-20;Logística;Analista Pleno;Ricardo Almeida;2020-09-24;Ativo
+MAT0278;Ana Luiza Borges;Feminino;1999-08-10;Produção;Analista Pleno;Ricardo Almeida;2018-02-13;Ativo
+MAT0279;Luigi Borges;Masculino;1991-03-26;Comercial;Assistente;Fernanda Souza;2016-07-04;Ativo
+MAT0280;Ana Liz Nogueira;Masculino;1993-08-11;Logística;Assistente;Ricardo Almeida;2018-02-15;Ativo
+MAT0281;Dr. Levi Sampaio;Masculino;1980-10-27;Comercial;Analista Sênior;Fernanda Souza;2024-08-08;Ativo
+MAT0282;Luiz Otávio Jesus;Feminino;2000-05-05;Qualidade;Assistente;Juliana Costa;2020-01-31;Ativo
+MAT0283;Léo Viana;Feminino;2003-10-17;Comercial;Assistente;Fernanda Souza;2019-08-29;Ativo
+MAT0284;Maria Clara Albuquerque;Feminino;1979-08-17;Logística;Assistente;Ricardo Almeida;2019-12-30;Ativo
+MAT0285;Natália Souza;Masculino;2005-01-16;Logística;Supervisor;Ricardo Almeida;2025-06-14;Ativo
+MAT0286;Sophia Marques;Masculino;1978-02-06;Produção;Analista Pleno;Ricardo Almeida;2022-09-25;Ativo
+MAT0287;Anthony Pereira;Masculino;1987-03-02;Produção;Analista Jr;Ricardo Almeida;2022-02-05;Ativo
+MAT0288;Bárbara Câmara;Masculino;1980-08-24;Financeiro;Analista Jr;Carlos Henrique;2023-04-02;Ativo
+MAT0289;João Pedro Caldeira;Masculino;1976-05-10;Tecnologia;Analista Pleno;Juliana Costa;2025-05-16;Ativo
+MAT0290;Cauê Lopes;Feminino;1972-12-31;Produção;Analista Pleno;Ricardo Almeida;2021-03-16;Ativo
+MAT0291;Luiz Felipe Duarte;Masculino;1973-03-18;Tecnologia;Analista Sênior;Juliana Costa;2020-03-01;Ativo
+MAT0292;Milena Aragão;Masculino;1994-04-18;Produção;Assistente;Ricardo Almeida;2021-11-01;Ativo
+MAT0293;Rodrigo Sales;Feminino;1992-11-22;Logística;Assistente;Ricardo Almeida;2019-05-08;Ativo
+MAT0294;Anthony Pires;Feminino;2005-11-24;Produção;Assistente;Ricardo Almeida;2020-10-03;Ativo
+MAT0295;Danilo Mendonça;Masculino;1997-12-06;Produção;Analista Pleno;Ricardo Almeida;2025-07-18;Ativo
+MAT0296;Yuri Teixeira;Feminino;1978-08-11;Produção;Supervisor;Ricardo Almeida;2019-03-29;Ativo
+MAT0297;Sofia Machado;Masculino;1975-09-02;Logística;Analista Pleno;Ricardo Almeida;2026-05-09;Ativo
+MAT0298;Danilo Leão;Feminino;1991-01-23;Comercial;Assistente;Fernanda Souza;2019-02-11;Ativo
+MAT0299;Olívia Vieira;Masculino;2003-08-26;Produção;Analista Pleno;Ricardo Almeida;2017-01-19;Ativo
+MAT0300;Pedro Lucas Siqueira;Feminino;1970-05-30;Produção;Analista Jr;Ricardo Almeida;2018-08-15;Ativo
+MAT0301;Gabriel Andrade;Feminino;1977-05-25;Logística;Analista Pleno;Ricardo Almeida;2021-09-28;Ativo
+MAT0302;Antônio das Neves;Masculino;1967-07-08;Comercial;Coordenador;Fernanda Souza;2021-08-31;Ativo
+MAT0303;Henrique Lopes;Feminino;1980-01-27;Tecnologia;Analista Jr;Juliana Costa;2021-06-03;Ativo
+MAT0304;Cecília Moura;Masculino;1998-07-15;Produção;Supervisor;Ricardo Almeida;2023-10-03;Ativo
+MAT0305;Sr. Rael Rios;Feminino;2006-01-16;Comercial;Analista Sênior;Fernanda Souza;2021-01-12;Ativo
+MAT0306;Sarah Caldeira;Feminino;1965-11-05;Financeiro;Analista Jr;Carlos Henrique;2024-09-09;Ativo
+MAT0307;Sr. Arthur Miguel Silva;Feminino;1973-10-03;Produção;Analista Pleno;Ricardo Almeida;2024-10-27;Ativo
+MAT0308;Miguel Aragão;Masculino;2002-12-27;Qualidade;Analista Jr;Juliana Costa;2024-02-08;Ativo
+MAT0309;Ana Beatriz Abreu;Masculino;1987-11-10;Comercial;Analista Jr;Fernanda Souza;2025-05-06;Ativo
+MAT0310;Théo Freitas;Masculino;1965-06-29;Financeiro;Analista Sênior;Carlos Henrique;2026-03-27;Ativo
+MAT0311;Jade Araújo;Feminino;1974-05-04;Produção;Analista Jr;Ricardo Almeida;2020-08-03;Ativo
+MAT0312;Milena Santos;Feminino;2005-01-29;Comercial;Analista Pleno;Fernanda Souza;2023-03-05;Ativo
+MAT0313;Ana Lívia da Cruz;Masculino;2007-11-25;Financeiro;Assistente;Carlos Henrique;2016-07-30;Ativo
+MAT0314;Paulo da Cunha;Feminino;2002-08-27;Tecnologia;Especialista;Juliana Costa;2021-03-02;Ativo
+MAT0315;Milena da Paz;Masculino;1992-08-07;Produção;Assistente;Ricardo Almeida;2021-04-03;Ativo
+MAT0316;Noah da Luz;Masculino;1990-10-01;Financeiro;Especialista;Carlos Henrique;2025-04-02;Ativo
+MAT0317;Francisco Viana;Masculino;1987-05-16;Produção;Analista Jr;Ricardo Almeida;2020-09-25;Ativo
+MAT0318;Pietro Fernandes;Masculino;1994-09-08;Produção;Assistente;Ricardo Almeida;2024-06-20;Ativo
+MAT0319;Calebe Lima;Feminino;1988-08-23;Comercial;Assistente;Fernanda Souza;2019-02-15;Ativo
+MAT0320;Gustavo Cirino;Feminino;1984-06-04;Produção;Supervisor;Ricardo Almeida;2022-01-03;Ativo
+MAT0321;Dra. Maria Helena da Costa;Masculino;1974-01-09;Qualidade;Supervisor;Juliana Costa;2018-11-27;Ativo
+MAT0322;Leandro Moura;Masculino;2007-11-27;Produção;Supervisor;Ricardo Almeida;2019-02-05;Ativo
+MAT0323;Aylla Pimenta;Masculino;1965-12-03;Comercial;Analista Sênior;Fernanda Souza;2022-04-09;Ativo
+MAT0324;Sr. Arthur Moreira;Feminino;2007-07-13;Recursos Humanos;Assistente;Patricia Martins;2017-09-26;Ativo
+MAT0325;Ísis das Neves;Masculino;1966-03-03;Comercial;Coordenador;Fernanda Souza;2018-06-02;Ativo
+MAT0326;Amanda Nascimento;Masculino;1999-08-22;Logística;Analista Jr;Ricardo Almeida;2025-12-11;Ativo
+MAT0327;Diego Casa Grande;Masculino;1980-04-13;Produção;Assistente;Ricardo Almeida;2019-11-18;Ativo
+MAT0328;Anthony Gabriel Fernandes;Masculino;1980-05-24;Tecnologia;Coordenador;Juliana Costa;2022-01-14;Ativo
+MAT0329;Manuella Guerra;Masculino;1986-01-30;Financeiro;Assistente;Carlos Henrique;2026-03-15;Ativo
+MAT0330;Emilly Sá;Feminino;1970-04-03;Produção;Supervisor;Ricardo Almeida;2017-11-06;Ativo
+MAT0331;Arthur Andrade;Feminino;1982-08-18;Tecnologia;Especialista;Juliana Costa;2023-07-13;Ativo
+MAT0332;José Miguel Siqueira;Masculino;2000-03-03;Produção;Analista Pleno;Ricardo Almeida;2020-02-07;Ativo
+MAT0333;Srta. Catarina Porto;Feminino;1986-08-06;Financeiro;Especialista;Carlos Henrique;2026-02-02;Ativo
+MAT0334;Marcela Duarte;Masculino;1973-02-23;Produção;Assistente;Ricardo Almeida;2016-09-01;Ativo
+MAT0335;Allana Moraes;Feminino;2007-10-03;Tecnologia;Especialista;Juliana Costa;2024-05-25;Ativo
+MAT0336;Miguel Rocha;Feminino;2003-06-26;Qualidade;Analista Pleno;Juliana Costa;2018-01-25;Ativo
+MAT0337;Maria Isis Almeida;Masculino;1987-04-29;Tecnologia;Especialista;Juliana Costa;2021-11-23;Ativo
+MAT0338;Isabela Pereira;Masculino;1994-02-14;Qualidade;Assistente;Juliana Costa;2025-10-11;Ativo
+MAT0339;Cecília Fogaça;Masculino;1979-06-09;Tecnologia;Analista Jr;Juliana Costa;2018-07-16;Ativo
+MAT0340;Dr. Luiz Otávio Novaes;Feminino;2008-05-17;Produção;Analista Pleno;Ricardo Almeida;2022-08-16;Ativo
+MAT0341;Ana Liz Santos;Feminino;1967-09-28;Comercial;Coordenador;Fernanda Souza;2022-05-23;Ativo
+MAT0342;Bella Santos;Masculino;1985-01-27;Qualidade;Assistente;Juliana Costa;2018-11-18;Ativo
+MAT0343;Sr. Léo Aragão;Masculino;1990-03-10;Comercial;Coordenador;Fernanda Souza;2020-11-12;Ativo
+MAT0344;Gabriela Carvalho;Feminino;2004-09-05;Tecnologia;Coordenador;Juliana Costa;2026-05-25;Ativo
+MAT0345;Vitor Hugo Novaes;Feminino;1981-04-26;Recursos Humanos;Especialista;Patricia Martins;2023-08-02;Ativo
+MAT0346;Ana Julia Caldeira;Masculino;1998-05-01;Tecnologia;Analista Pleno;Juliana Costa;2019-09-07;Ativo
+MAT0347;Juliana Aragão;Masculino;1975-06-06;Qualidade;Analista Jr;Juliana Costa;2021-08-11;Ativo
+MAT0348;Cauã Alves;Feminino;2006-02-12;Comercial;Coordenador;Fernanda Souza;2022-08-08;Ativo
+MAT0349;Sr. Eduardo Gonçalves;Masculino;1989-06-11;Comercial;Coordenador;Fernanda Souza;2017-07-30;Ativo
+MAT0350;Antônio Câmara;Feminino;1990-09-01;Produção;Analista Pleno;Ricardo Almeida;2017-02-27;Ativo
+MAT0351;Anthony Gabriel Teixeira;Masculino;1968-09-28;Comercial;Assistente;Fernanda Souza;2024-06-20;Ativo
+MAT0352;Aurora Peixoto;Feminino;1984-11-19;Logística;Supervisor;Ricardo Almeida;2021-06-15;Ativo
+MAT0353;Carolina Martins;Masculino;1980-07-17;Produção;Assistente;Ricardo Almeida;2023-10-13;Ativo
+MAT0354;Anna Liz Almeida;Masculino;1971-01-29;Comercial;Analista Sênior;Fernanda Souza;2025-06-16;Ativo
+MAT0355;Lucas Rezende;Feminino;1984-10-03;Tecnologia;Especialista;Juliana Costa;2018-04-28;Ativo
+MAT0356;Dr. Rhavi Cassiano;Masculino;1989-04-22;Produção;Analista Pleno;Ricardo Almeida;2020-04-02;Ativo
+MAT0357;Sr. Marcelo Rodrigues;Feminino;1992-02-05;Tecnologia;Especialista;Juliana Costa;2021-10-27;Ativo
+MAT0358;Joana Correia;Feminino;1975-10-23;Tecnologia;Analista Jr;Juliana Costa;2023-10-17;Ativo
+MAT0359;Emanuel Campos;Masculino;1995-11-07;Tecnologia;Analista Jr;Juliana Costa;2017-07-04;Ativo
+MAT0360;Bernardo Andrade;Feminino;2003-12-15;Comercial;Analista Sênior;Fernanda Souza;2018-06-24;Ativo
+MAT0361;Srta. Ágatha Albuquerque;Masculino;1991-11-01;Produção;Analista Jr;Ricardo Almeida;2019-08-22;Ativo
+MAT0362;João Gabriel Fogaça;Feminino;1997-01-18;Produção;Assistente;Ricardo Almeida;2016-12-23;Ativo
+MAT0363;Caleb Sá;Feminino;1965-06-30;Comercial;Analista Jr;Fernanda Souza;2023-04-27;Ativo
+MAT0364;Luiz Miguel Silva;Feminino;1972-04-06;Tecnologia;Especialista;Juliana Costa;2026-01-19;Ativo
+MAT0365;Bryan Lopes;Masculino;2004-12-14;Tecnologia;Analista Pleno;Juliana Costa;2018-06-17;Ativo
+MAT0366;Raul Viana;Masculino;1985-05-09;Qualidade;Supervisor;Juliana Costa;2017-10-09;Ativo
+MAT0367;Mariana da Luz;Masculino;1965-08-18;Recursos Humanos;Especialista;Patricia Martins;2017-07-24;Ativo
+MAT0368;Isadora Caldeira;Masculino;2001-07-14;Produção;Supervisor;Ricardo Almeida;2017-08-05;Ativo
+MAT0369;Ana Vitória Moreira;Feminino;1983-05-09;Financeiro;Especialista;Carlos Henrique;2021-06-09;Ativo
+MAT0370;Sr. Luiz Henrique Nascimento;Masculino;1977-12-24;Comercial;Analista Jr;Fernanda Souza;2023-05-03;Ativo
+MAT0371;Dr. Noah Sampaio;Masculino;1974-10-07;Qualidade;Analista Pleno;Juliana Costa;2022-10-29;Ativo
+MAT0372;Letícia Correia;Feminino;1972-12-25;Comercial;Analista Jr;Fernanda Souza;2025-12-14;Ativo
+MAT0373;Rodrigo Santos;Masculino;1979-02-21;Produção;Supervisor;Ricardo Almeida;2022-07-28;Ativo
+MAT0374;Srta. Maria Helena Camargo;Masculino;1980-01-20;Logística;Analista Pleno;Ricardo Almeida;2022-02-19;Ativo
+MAT0375;Mariana Sá;Masculino;1998-04-13;Produção;Analista Pleno;Ricardo Almeida;2026-01-07;Ativo
+MAT0376;Enrico Guerra;Masculino;1996-12-21;Comercial;Analista Jr;Fernanda Souza;2024-11-14;Ativo
+MAT0377;Sr. Lucca Albuquerque;Feminino;1997-01-26;Financeiro;Especialista;Carlos Henrique;2025-08-20;Ativo
+MAT0378;João Vitor Araújo;Feminino;2006-11-27;Comercial;Analista Sênior;Fernanda Souza;2022-08-05;Ativo
+MAT0379;Isaque Pastor;Feminino;2007-06-11;Produção;Analista Jr;Ricardo Almeida;2021-06-23;Ativo
+MAT0380;Maysa Cassiano;Feminino;1991-01-09;Produção;Analista Pleno;Ricardo Almeida;2025-12-28;Ativo
+MAT0381;Isabelly Duarte;Masculino;1993-02-22;Produção;Assistente;Ricardo Almeida;2018-10-01;Ativo
+MAT0382;Emilly Fonseca;Feminino;1984-09-30;Logística;Supervisor;Ricardo Almeida;2022-06-27;Ativo
+MAT0383;Helena Cardoso;Masculino;1982-12-30;Comercial;Analista Pleno;Fernanda Souza;2023-03-10;Ativo
+MAT0384;Ana Carolina Nunes;Masculino;1995-09-22;Qualidade;Analista Pleno;Juliana Costa;2023-06-22;Ativo
+MAT0385;João Vitor Montenegro;Masculino;2001-01-31;Produção;Analista Jr;Ricardo Almeida;2022-02-06;Ativo
+MAT0386;Giovanna Casa Grande;Feminino;1998-10-08;Financeiro;Coordenador;Carlos Henrique;2019-09-08;Ativo
+MAT0387;Juan Marques;Masculino;1976-03-07;Logística;Assistente;Ricardo Almeida;2023-02-26;Ativo
+MAT0388;Maitê Barros;Feminino;1969-10-08;Produção;Assistente;Ricardo Almeida;2018-12-30;Ativo
+MAT0389;Sr. Benicio Mendonça;Feminino;1977-11-19;Produção;Analista Pleno;Ricardo Almeida;2020-02-15;Ativo
+MAT0390;Arthur Miguel Brito;Feminino;1979-01-10;Logística;Analista Jr;Ricardo Almeida;2023-10-29;Ativo
+MAT0391;Benicio Aragão;Feminino;2001-08-09;Qualidade;Supervisor;Juliana Costa;2024-11-08;Ativo
+MAT0392;Isabella Macedo;Feminino;1976-09-30;Tecnologia;Coordenador;Juliana Costa;2024-11-15;Ativo
+MAT0393;Júlia Marques;Feminino;1977-09-04;Recursos Humanos;Analista Jr;Patricia Martins;2024-07-20;Ativo
+MAT0394;Ana Júlia Barros;Masculino;1998-12-14;Produção;Assistente;Ricardo Almeida;2020-02-02;Ativo
+MAT0395;Isadora Sampaio;Feminino;1968-05-20;Logística;Analista Pleno;Ricardo Almeida;2017-07-03;Ativo
+MAT0396;Srta. Rebeca Guerra;Feminino;1978-04-19;Logística;Supervisor;Ricardo Almeida;2026-02-23;Ativo
+MAT0397;Juan Cardoso;Masculino;2000-07-15;Produção;Assistente;Ricardo Almeida;2023-02-03;Ativo
+MAT0398;Pedro Henrique Cavalcanti;Masculino;1969-12-17;Logística;Analista Jr;Ricardo Almeida;2024-11-14;Ativo
+MAT0399;Luan Peixoto;Masculino;2003-12-29;Produção;Analista Pleno;Ricardo Almeida;2022-12-03;Ativo
+MAT0400;Luiz Felipe da Cruz;Feminino;1988-02-06;Financeiro;Analista Sênior;Carlos Henrique;2017-07-14;Ativo
+MAT0401;Dante Rocha;Masculino;1989-03-04;Produção;Assistente;Ricardo Almeida;2023-12-29;Ativo
+MAT0402;Vitor Gabriel da Mota;Masculino;2002-01-27;Logística;Analista Pleno;Ricardo Almeida;2020-06-26;Ativo
+MAT0403;Sr. Matteo Câmara;Feminino;1994-03-12;Comercial;Analista Pleno;Fernanda Souza;2019-03-15;Ativo
+MAT0404;Benjamim Dias;Masculino;1992-12-23;Logística;Supervisor;Ricardo Almeida;2019-04-10;Ativo
+MAT0405;Ana Beatriz Azevedo;Feminino;1994-04-14;Logística;Analista Pleno;Ricardo Almeida;2024-12-04;Ativo
+MAT0406;Pietro Vieira;Masculino;2003-02-02;Tecnologia;Analista Sênior;Juliana Costa;2021-06-01;Ativo
+MAT0407;Vinícius Cavalcante;Masculino;2003-08-06;Produção;Assistente;Ricardo Almeida;2025-08-30;Ativo
+MAT0408;Anthony Gabriel da Cunha;Feminino;1969-12-18;Produção;Supervisor;Ricardo Almeida;2019-07-13;Ativo
+MAT0409;Dr. Ravi Lucca Siqueira;Feminino;1982-08-20;Tecnologia;Analista Sênior;Juliana Costa;2017-01-05;Ativo
+MAT0410;João Gabriel Ramos;Feminino;1990-08-06;Recursos Humanos;Especialista;Patricia Martins;2017-04-15;Ativo
+MAT0411;Dra. Alice Sampaio;Masculino;1976-10-04;Comercial;Analista Jr;Fernanda Souza;2025-05-08;Ativo
+MAT0412;Dra. Sara Azevedo;Masculino;1968-09-16;Produção;Analista Jr;Ricardo Almeida;2021-08-12;Ativo
+MAT0413;Cauê Melo;Feminino;1978-11-24;Financeiro;Analista Pleno;Carlos Henrique;2024-02-13;Ativo
+MAT0414;Dr. Henry Gabriel Borges;Masculino;1990-11-07;Produção;Assistente;Ricardo Almeida;2022-02-03;Ativo
+MAT0415;Enzo Gabriel Marques;Masculino;1975-02-28;Logística;Supervisor;Ricardo Almeida;2022-07-30;Ativo
+MAT0416;Matheus Cavalcanti;Feminino;1990-10-03;Comercial;Coordenador;Fernanda Souza;2021-11-09;Ativo
+MAT0417;Dr. Fernando Araújo;Masculino;2004-03-15;Qualidade;Analista Jr;Juliana Costa;2019-08-10;Ativo
+MAT0418;Eduardo Nascimento;Feminino;1979-09-01;Comercial;Assistente;Fernanda Souza;2023-03-10;Ativo
+MAT0419;Dra. Júlia Moreira;Feminino;1975-10-14;Produção;Supervisor;Ricardo Almeida;2023-12-16;Ativo
+MAT0420;Marcos Vinicius Sá;Feminino;1976-05-20;Financeiro;Analista Jr;Carlos Henrique;2022-04-07;Ativo
+MAT0421;Arthur Gabriel Albuquerque;Masculino;2000-06-30;Produção;Supervisor;Ricardo Almeida;2018-01-04;Ativo
+MAT0422;Melina Lopes;Masculino;2007-02-03;Qualidade;Analista Pleno;Juliana Costa;2022-10-14;Ativo
+MAT0423;Olivia Campos;Masculino;1984-06-11;Produção;Analista Jr;Ricardo Almeida;2025-12-28;Ativo
+MAT0424;Clarice Mendes;Feminino;1984-02-13;Financeiro;Coordenador;Carlos Henrique;2026-04-12;Ativo
+MAT0425;Larissa Rodrigues;Masculino;1990-12-01;Produção;Assistente;Ricardo Almeida;2023-06-13;Ativo
+MAT0426;Sra. Ana Laura Araújo;Masculino;1998-01-04;Comercial;Coordenador;Fernanda Souza;2016-07-27;Ativo
+MAT0427;Dr. João Lucas da Conceição;Masculino;2007-10-10;Comercial;Analista Jr;Fernanda Souza;2023-12-28;Ativo
+MAT0428;Ravy Cardoso;Feminino;1967-11-05;Logística;Analista Jr;Ricardo Almeida;2025-12-29;Ativo
+MAT0429;Anthony das Neves;Feminino;1995-12-29;Qualidade;Analista Pleno;Juliana Costa;2026-02-02;Ativo
+MAT0430;Sr. Felipe Azevedo;Feminino;1996-12-29;Recursos Humanos;Analista Jr;Patricia Martins;2020-07-01;Ativo
+MAT0431;Dr. Vinícius Moraes;Feminino;1966-02-26;Qualidade;Analista Jr;Juliana Costa;2019-04-26;Ativo
+MAT0432;Elisa Nogueira;Feminino;1998-03-24;Financeiro;Analista Pleno;Carlos Henrique;2019-05-20;Ativo
+MAT0433;Larissa Rodrigues;Feminino;1966-04-10;Qualidade;Supervisor;Juliana Costa;2025-02-04;Ativo
+MAT0434;Luiz Henrique da Rosa;Masculino;2004-12-23;Comercial;Analista Pleno;Fernanda Souza;2021-04-23;Ativo
+MAT0435;José Miguel Teixeira;Masculino;1968-02-25;Produção;Analista Pleno;Ricardo Almeida;2022-07-02;Ativo
+MAT0436;Maria Alice Rodrigues;Masculino;1995-05-23;Produção;Analista Jr;Ricardo Almeida;2025-11-24;Ativo
+MAT0437;Luiz Otávio Cunha;Masculino;1969-02-15;Produção;Analista Jr;Ricardo Almeida;2023-05-04;Ativo
+MAT0438;Melina da Costa;Masculino;1998-11-20;Financeiro;Assistente;Carlos Henrique;2017-09-13;Ativo
+MAT0439;João Felipe Abreu;Masculino;1982-05-05;Produção;Assistente;Ricardo Almeida;2025-09-18;Ativo
+MAT0440;Dr. Luiz Otávio da Luz;Masculino;1994-12-09;Qualidade;Analista Jr;Juliana Costa;2021-05-23;Ativo
+MAT0441;Joana Cassiano;Masculino;1990-03-12;Logística;Assistente;Ricardo Almeida;2016-12-02;Ativo
+MAT0442;Vinícius Alves;Feminino;1986-01-05;Qualidade;Analista Pleno;Juliana Costa;2022-02-28;Ativo
+MAT0443;Luiz Otávio Cardoso;Masculino;1991-12-16;Produção;Analista Jr;Ricardo Almeida;2018-01-22;Ativo
+MAT0444;Leandro Silva;Feminino;1984-12-25;Produção;Analista Jr;Ricardo Almeida;2016-12-10;Ativo
+MAT0445;Srta. Maya Cassiano;Feminino;1965-12-20;Produção;Analista Pleno;Ricardo Almeida;2021-08-29;Ativo
+MAT0446;Gael Marques;Feminino;2001-03-31;Tecnologia;Coordenador;Juliana Costa;2021-08-30;Ativo
+MAT0447;Ravy Pires;Feminino;1995-12-04;Tecnologia;Analista Sênior;Juliana Costa;2018-08-25;Ativo
+MAT0448;Pedro Henrique Farias;Feminino;1976-03-11;Produção;Supervisor;Ricardo Almeida;2020-05-31;Ativo
+MAT0449;Rodrigo Oliveira;Feminino;1980-02-28;Tecnologia;Analista Jr;Juliana Costa;2024-08-07;Ativo
+MAT0450;Cauã Moreira;Masculino;1980-07-11;Financeiro;Analista Jr;Carlos Henrique;2022-01-07;Ativo
+MAT0451;Fernando Fernandes;Feminino;2001-11-14;Produção;Analista Pleno;Ricardo Almeida;2021-01-04;Ativo
+MAT0452;Dr. Igor Novaes;Masculino;1984-06-15;Produção;Supervisor;Ricardo Almeida;2020-01-02;Ativo
+MAT0453;Isadora Rocha;Feminino;1993-12-15;Comercial;Analista Jr;Fernanda Souza;2016-12-04;Ativo
+MAT0454;Maria Eduarda Casa Grande;Masculino;1977-01-22;Tecnologia;Especialista;Juliana Costa;2020-01-28;Ativo
+MAT0455;Ana Vitória Castro;Feminino;2004-08-20;Produção;Supervisor;Ricardo Almeida;2023-03-07;Ativo
+MAT0456;Alice Sousa;Feminino;1978-05-11;Comercial;Analista Pleno;Fernanda Souza;2017-05-29;Ativo
+MAT0457;Calebe Martins;Feminino;1971-07-30;Recursos Humanos;Analista Sênior;Patricia Martins;2022-01-05;Ativo
+MAT0458;Cauê Martins;Masculino;1998-06-12;Produção;Analista Pleno;Ricardo Almeida;2024-05-29;Ativo
+MAT0459;Luan Duarte;Feminino;2002-03-16;Qualidade;Analista Pleno;Juliana Costa;2017-01-24;Ativo
+MAT0460;Srta. Pietra Machado;Feminino;1996-09-30;Produção;Assistente;Ricardo Almeida;2023-04-26;Ativo
+MAT0461;Cecilia Rodrigues;Feminino;2007-12-21;Logística;Analista Jr;Ricardo Almeida;2025-03-08;Ativo
+MAT0462;Laís Sales;Masculino;1971-03-17;Logística;Analista Jr;Ricardo Almeida;2024-12-11;Ativo
+MAT0463;Josué Ribeiro;Feminino;1979-11-15;Comercial;Analista Jr;Fernanda Souza;2020-07-07;Ativo
+MAT0464;Zoe da Rosa;Feminino;1991-03-15;Produção;Supervisor;Ricardo Almeida;2020-01-17;Ativo
+MAT0465;Dra. Anna Liz Fernandes;Feminino;1982-08-01;Comercial;Analista Sênior;Fernanda Souza;2025-04-19;Ativo
+MAT0466;Bryan Melo;Masculino;2003-01-05;Logística;Analista Pleno;Ricardo Almeida;2025-12-23;Ativo
+MAT0467;Srta. Ana Lívia Montenegro;Feminino;1997-05-05;Produção;Assistente;Ricardo Almeida;2024-10-11;Ativo
+MAT0468;Bruna Moreira;Feminino;1985-12-21;Produção;Analista Jr;Ricardo Almeida;2018-02-25;Ativo
+MAT0469;Henry Gabriel Vieira;Feminino;1981-04-25;Produção;Assistente;Ricardo Almeida;2017-09-13;Ativo
+MAT0470;Luiz Henrique Vieira;Feminino;1992-02-06;Qualidade;Assistente;Juliana Costa;2023-05-13;Ativo
+MAT0471;Clarice da Luz;Feminino;2000-02-01;Financeiro;Assistente;Carlos Henrique;2024-05-23;Ativo
+MAT0472;Thales Dias;Feminino;1999-03-07;Qualidade;Analista Jr;Juliana Costa;2023-09-27;Ativo
+MAT0473;Ana Cecília Silveira;Feminino;1978-12-20;Comercial;Assistente;Fernanda Souza;2017-11-07;Ativo
+MAT0474;Vitor Hugo Novaes;Masculino;1997-12-26;Logística;Assistente;Ricardo Almeida;2021-11-14;Ativo
+MAT0475;Marcos Vinicius Lopes;Feminino;1996-12-14;Logística;Assistente;Ricardo Almeida;2026-03-24;Ativo
+MAT0476;Brenda da Conceição;Masculino;1990-06-04;Produção;Supervisor;Ricardo Almeida;2016-09-12;Ativo
+MAT0477;Maria Sophia Machado;Feminino;1977-07-26;Produção;Analista Pleno;Ricardo Almeida;2025-02-26;Ativo
+MAT0478;Gabriel da Cunha;Feminino;1984-02-07;Produção;Assistente;Ricardo Almeida;2026-02-24;Ativo
+MAT0479;Bryan Araújo;Feminino;1980-03-15;Produção;Supervisor;Ricardo Almeida;2021-03-06;Ativo
+MAT0480;Dom Silva;Masculino;1965-09-15;Recursos Humanos;Analista Sênior;Patricia Martins;2021-10-14;Ativo
+MAT0481;Luiz Henrique da Luz;Masculino;1982-03-10;Comercial;Assistente;Fernanda Souza;2020-04-13;Ativo
+MAT0482;Henry Albuquerque;Feminino;2007-06-12;Logística;Assistente;Ricardo Almeida;2023-08-29;Ativo
+MAT0483;Ester da Cruz;Feminino;1974-05-01;Produção;Assistente;Ricardo Almeida;2026-04-20;Ativo
+MAT0484;Gabriel Gomes;Feminino;1965-10-29;Produção;Analista Pleno;Ricardo Almeida;2026-04-21;Ativo
+MAT0485;Renan Guerra;Masculino;1970-09-20;Tecnologia;Analista Pleno;Juliana Costa;2023-08-23;Ativo
+MAT0486;Stella Jesus;Masculino;1973-08-30;Produção;Analista Jr;Ricardo Almeida;2025-08-23;Ativo
+MAT0487;Lavínia Melo;Feminino;1994-12-14;Comercial;Analista Pleno;Fernanda Souza;2021-11-19;Ativo
+MAT0488;Dr. Lucca Nascimento;Feminino;1967-02-12;Recursos Humanos;Analista Sênior;Patricia Martins;2017-05-14;Ativo
+MAT0489;Rafael Camargo;Feminino;1994-01-26;Logística;Analista Pleno;Ricardo Almeida;2024-06-05;Ativo
+MAT0490;Marcelo Peixoto;Feminino;2003-01-10;Tecnologia;Analista Jr;Juliana Costa;2022-11-26;Ativo
+MAT0491;Amanda Souza;Feminino;1971-07-25;Logística;Supervisor;Ricardo Almeida;2024-07-25;Ativo
+MAT0492;Matteo Abreu;Masculino;1996-12-17;Logística;Analista Jr;Ricardo Almeida;2020-06-03;Ativo
+MAT0493;Ana Julia Cassiano;Masculino;1997-08-11;Tecnologia;Analista Pleno;Juliana Costa;2021-06-11;Ativo
+MAT0494;João Cirino;Masculino;1975-10-26;Produção;Supervisor;Ricardo Almeida;2017-05-27;Ativo
+MAT0495;Sra. Heloisa Cardoso;Feminino;1980-08-06;Logística;Analista Jr;Ricardo Almeida;2018-07-18;Ativo
+MAT0496;Luara da Rosa;Masculino;2000-08-23;Logística;Assistente;Ricardo Almeida;2021-09-12;Ativo
+MAT0497;Sr. Murilo Souza;Feminino;1972-11-22;Produção;Analista Pleno;Ricardo Almeida;2023-06-30;Ativo
+MAT0498;Srta. Ayla da Paz;Masculino;1966-11-15;Recursos Humanos;Analista Pleno;Patricia Martins;2018-12-22;Ativo
+MAT0499;Igor Casa Grande;Feminino;1987-09-21;Tecnologia;Analista Pleno;Juliana Costa;2023-11-08;Ativo
+MAT0500;Arthur das Neves;Feminino;2001-11-26;Produção;Assistente;Ricardo Almeida;2022-09-21;Ativo
