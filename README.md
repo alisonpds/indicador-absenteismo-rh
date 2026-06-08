@@ -16,6 +16,7 @@ Mensurar e acompanhar indicadores de ausência dos colaboradores para apoiar dec
 ## Indicadores
 
 - Tendência mensal
+- Taxa de absenteísmo
 - KPI Total de ausências
 - KPI Média de dias
 - KPI Horas perdidas
